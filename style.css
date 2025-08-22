@@ -71,7 +71,7 @@ body{
     bottom: 10px;
 }
 .valentines:hover .card{
-    transform: translateY(-100px);
+    transform: translateY(-160px);
 }
 .card .text{
     font-family: 'Brush Script MT', cursive;
@@ -133,4 +133,5 @@ body{
     50%{
         transform: scaleX(.85);
     }
+
 }
